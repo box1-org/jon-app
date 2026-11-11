@@ -1,0 +1,6 @@
+site_name: jon-app
+site_description: "A Quarkus REST service on OpenShift"
+nav:
+  - Home: index.md
+plugins:
+  - techdocs-core
